@@ -1,2 +1,4 @@
 theme: jekyll-theme-cayman
 title: DenwaXR
+github:
+  is_project_page: false
